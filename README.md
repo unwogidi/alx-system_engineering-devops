@@ -1,0 +1,1 @@
+This is a project on ALX System Engineering and Devops which test my practical knwoledge of how to use shell for scripting and pushing to github platform
