@@ -1,0 +1,1 @@
+A hands on practical on shell permissions
